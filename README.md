@@ -1,4 +1,4 @@
-:wave: Olá, eu sou o Julio Cesar 
+# :wave: Olá, eu sou o Julio Cesar                 
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 💡 Apaixonado por tecnologia
@@ -11,6 +11,7 @@
 - 👨🏻‍💻 Trabalho atualmente como autônomo 
 
 Meu objetivo é crescer como profissional de tecnologia, unindo minha experiência administrativa à visão analítica e criativa adquirida nos estudos. Acredito que a tecnologia tem o poder de transformar realidades e simplificar processos, e quero contribuir para soluções que gerem impacto positivo.
+
 
 ## 📫 Como me encontrar  
 
